@@ -92,11 +92,7 @@ You’ll be prompted to enter a ticker (e.g., `AAPL`, `TSLA`). The tool will sta
 
 ---
 
-## 👥 Contributors
 
-- **Nithyasree Kusakula** – Automation Logic, OCR Integration, UI Debugging
-
----
 
 ## 🚧 Future Enhancements
 
