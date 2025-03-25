@@ -1,4 +1,4 @@
-# 📸 Supply Chain Screenshot Automation Tool
+# 📸 Bloomberg Supply Chain Data Automated Extraction Tool
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/Automation-Success-green)
