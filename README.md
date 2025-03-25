@@ -8,11 +8,6 @@ This project automates the extraction of **supplier and customer** screenshots f
 
 ---
 
-## 🖼️ Preview
-
-<img src="bbox_preview.png" width="800" alt="bbox preview"/>
-
----
 
 ## 🛠️ Features
 
