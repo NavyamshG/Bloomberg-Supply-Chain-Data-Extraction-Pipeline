@@ -1,0 +1,10 @@
+pandas
+pyautogui
+openpyxl
+opencv-python
+pygetwindow
+pywinauto
+paddleocr
+paddlepaddle
+fuzzywuzzy
+setuptools
